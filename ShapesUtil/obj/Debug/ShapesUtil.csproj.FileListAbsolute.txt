@@ -1,0 +1,7 @@
+D:\Training\KT-Venkat\ShapesUtil\ShapesUtil\bin\Debug\ShapesUtil.exe.config
+D:\Training\KT-Venkat\ShapesUtil\ShapesUtil\bin\Debug\ShapesUtil.exe
+D:\Training\KT-Venkat\ShapesUtil\ShapesUtil\bin\Debug\ShapesUtil.pdb
+D:\Training\KT-Venkat\ShapesUtil\ShapesUtil\obj\Debug\ShapesUtil.csprojAssemblyReference.cache
+D:\Training\KT-Venkat\ShapesUtil\ShapesUtil\obj\Debug\ShapesUtil.csproj.CoreCompileInputs.cache
+D:\Training\KT-Venkat\ShapesUtil\ShapesUtil\obj\Debug\ShapesUtil.exe
+D:\Training\KT-Venkat\ShapesUtil\ShapesUtil\obj\Debug\ShapesUtil.pdb
